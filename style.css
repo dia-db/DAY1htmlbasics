@@ -1,0 +1,22 @@
+a{
+    color: brown;
+    text-decoration: none;
+}
+#in1{
+    background-color: blue;
+}
+#in2{
+    background-color: blueviolet;
+    font-size: larger;
+}
+#in3{
+    background-color: brown;
+    font-weight: bold;
+}
+.grp1{
+    background-color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px dashed black ;
+    margin: 5% 30% 2% 20%;
+    padding:10px 30px 10px 50px;
+}
