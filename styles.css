@@ -1,0 +1,53 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://wallpapercave.com/wp/wp10432099.jpg');
+    background-size: cover;
+    margin:0;
+    height:100vh;
+    font-family: Arial, sans-serif;
+    background-color:black;
+}
+
+.logiNN {
+    background-color:#ffffff;
+    background-image: url('https://wallpapercave.com/wp/wp10432099.jpg');
+    background-size: cover;
+    padding: 20px;
+    border-radius: 1px;
+    box-shadow: 0 0 10px 10px ;
+    border-color: #ffffff;
+    width:400px;
+    height: 400px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 355%;
+    font-weight: 900;
+    color: #ffffff;
+}
+
+input {
+    width: 70%;
+    padding: 9px;
+    margin-bottom: 25px;
+    border-color: black;
+    border-radius: 6px;
+    font-size: 21px;
+    font-family: monospace;
+}
+
+button {
+    width: 25%;
+    padding: 4px;
+    font-family: monospace;
+    font-weight:bolder;
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    border-radius: 9px;
+    cursor:pointer;
+    font-size: 23px;
+}
